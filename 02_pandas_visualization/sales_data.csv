@@ -1,0 +1,11 @@
+order_id,date,product,region,quantity,price
+1,2023-01-10,Laptop,North,2,60000
+2,2023-01-15,Mobile,South,5,20000
+3,2023-02-05,Laptop,East,1,60000
+4,2023-02-18,Tablet,West,3,30000
+5,2023-03-02,Mobile,North,4,20000
+6,2023-03-12,Laptop,South,2,60000
+7,2023-04-01,Tablet,East,5,30000
+8,2023-04-20,Mobile,West,6,20000
+9,2023-05-05,Laptop,North,3,60000
+10,2023-05-25,Tablet,South,2,30000
