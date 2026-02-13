@@ -8,7 +8,7 @@ Machine Learning models, and an Industry-style ML pipeline.
 
 ---
 
-## 📌 Project Structure
+## Project Structure
 
 01_python_foundation  
 - Data cleaning script  
@@ -38,7 +38,7 @@ Machine Learning models, and an Industry-style ML pipeline.
 
 ---
 
-## 🚀 How to Run End-to-End Pipeline
+##  How to Run End-to-End Pipeline
 
 ```bash
 cd 05_end_to_end_project
